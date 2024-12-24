@@ -577,6 +577,11 @@ video {
   height: 150px;
 }
 
+.size-\[130px\] {
+  width: 130px;
+  height: 130px;
+}
+
 .h-full {
   height: 100%;
 }
@@ -615,6 +620,10 @@ video {
 
 .flex-col {
   flex-direction: column;
+}
+
+.content-center {
+  align-content: center;
 }
 
 .items-center {

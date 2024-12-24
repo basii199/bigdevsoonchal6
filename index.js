@@ -44,8 +44,6 @@ chevLeft.addEventListener('click', ()=>{
   addSelection(targetElement)
 })
 
-
-
 function removeSelection (){
   thumbnails.forEach((thumbnail)=>{
     thumbnail.classList.remove("selected-thumbnail")
